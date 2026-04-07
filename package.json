@@ -1,0 +1,24 @@
+{
+  "name": "tabnews-clone",
+  "version": "1.0.0",
+  "description": "Projeto do curso.dev, um clone do app Tab News para fins de aprendizado e prática",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marquinkkjk/tabnews-clone.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marquinkkjk/tabnews-clone/issues"
+  },
+  "homepage": "https://github.com/marquinkkjk/tabnews-clone#readme",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
